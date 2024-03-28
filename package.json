@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.6.3",
-    "@tailwindcss/vite": "4.0.0-alpha.10",
+    "@tailwindcss/vite": "4.0.0-alpha.11",
     "@types/howler": "2.2.11",
     "@types/react": "18.2.71",
     "@types/react-dom": "18.2.22",
